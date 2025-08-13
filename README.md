@@ -34,7 +34,7 @@ string module
 
 Installation
 
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/sAchyn119/Random-Password-Generator-.git
 cd random-password-generator
 
 Run
