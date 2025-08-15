@@ -1,12 +1,12 @@
-Random Password Generator (Python + Tkinter)
+## Random Password Generator (Python + Tkinter)
 
-Summary
+# Summary
 
 A Python-based GUI application to generate secure, customizable passwords.
 Built with Tkinter, it allows users to select password length, choose character sets (uppercase, lowercase, digits, symbols), exclude specific characters, and instantly copy the result to the clipboard.
 Includes a password strength checker to ensure security.
 
-Features
+# Features
 
 Custom password length (minimum 4 characters)
 
@@ -21,7 +21,7 @@ Automatic copy to clipboard
 Input validation with error messages
 
 
-Technology Stack
+# Technology Stack
 
 Python 3.x
 
@@ -32,16 +32,16 @@ random module
 string module
 
 
-Installation
+# Installation
 
-git clone https://github.com/sAchyn119/Random-Password-Generator-.git
+git clone : https://github.com/sAchyn119/Random-Password-Generator-.git
 cd random-password-generator
 
 Run
 
 python password_generator.py
 
-Usage
+# Usage
 
 1. Enter password length.
 
